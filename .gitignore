@@ -1,0 +1,8 @@
+/run/physical_data
+/run/plots
+/run/solution
+/src/CMC_Data
+/src/dep/*
+/src/build/*
+*~
+/utilities/Konvergenz/Konvergenz

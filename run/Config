@@ -1,0 +1,28 @@
+1           Newton_itmin
+30			Newton_itmax
+10			Newton_tol_factor_steps
+1.e-9	    Newton_tol_finish
+1           Newton_verb
+
+4			num_threads
+
+40          ns_domain_0
+40          ns_domain_1
+
+40         nt
+
+5			Number_of_Solutions_in_the_Sequence
+
+20			a0						
+300			Rp
+0.05		Ktr
+
+10		r1
+0.1		c1
+1			Sz1
+0			Pz1
+
+5		r2
+0.1		c2
+-1			Sz2
+0			Pz2

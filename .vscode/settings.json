@@ -1,0 +1,6 @@
+{
+    "makefile.makefilePath": "${workspaceFolder}/src/",
+    "files.associations": {
+        "*.c" : "cpp"
+    }
+}
